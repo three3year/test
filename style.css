@@ -1,0 +1,21 @@
+body
+{
+	color: #6666FF;
+}
+
+.post
+{
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	min-width: 300px;
+	max-width: 1000px;
+	margin-left: 25%;
+}
+
+.field
+{
+	color: #333;
+	background-color: #FFCC00;
+}
